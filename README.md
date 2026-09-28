@@ -32,9 +32,10 @@ Key analysis areas included:
 
 ## Deliverables
 
+- [Toronto Robbery Dataset](./data/Robbery_Open_Data_2226832258065309099.csv)
 - [Toronto Robbery Data Report](./Toronto_Robbery_Data_Report.pdf)
 - [Toronto Robbery Analysis Presentation](./Toronto_Robbery_Analysis_Presentation.pdf)
-- Tableau workbook
+- [Tableau Workbook](./Toronto_Robbery_Analysis.twbx)
 
 ## Key Skills Demonstrated
 
