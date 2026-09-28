@@ -8,38 +8,41 @@ Analyzed Toronto robbery data to identify trends and patterns across time, locat
 
 - Analyze robbery trends over time
 - Identify patterns by neighbourhood and location
-- Examine monthly and seasonal trends
-- Analyze robbery activity by time of day
-- Identify patterns that can support data-driven decision-making
+- Examine seasonal and temporal trends
+- Analyze factors associated with robbery incidents
+- Communicate findings through data visualizations and dashboards
 
 ## Tools & Technologies
 
-- **SAS** — Data cleaning, transformation, analysis, and forecasting
-- **Tableau** — Data visualization and dashboard development
-- **Excel** — Data validation and initial analysis
+- **SAS** – Data import, cleaning, transformation, and statistical analysis
+- **Tableau** – Interactive data visualization and dashboard development
+- **Excel** – Data organization and supporting analysis
 
 ## Data Analysis
 
-The project involved:
+The project involved preparing and analyzing Toronto robbery data to identify trends, discrepancies, and meaningful patterns.
 
-- Data cleaning and validation
-- Data transformation and preparation
-- Trend and pattern analysis
-- Time-based analysis
-- Geographic analysis
-- Seasonal analysis
-- Forecasting
+Key analysis areas included:
 
-## Visualizations
+- Time-based robbery trends
+- Geographic and neighbourhood patterns
+- Seasonal patterns
+- Robbery characteristics
+- Data visualization and reporting
 
-Created Tableau visualizations to analyze:
+## Deliverables
 
-- Robbery trends over time
-- Robbery incidents by neighbourhood
-- Monthly and seasonal patterns
-- Time-of-day trends
-- Geographic patterns
+- [Toronto Robbery Data Report](./Toronto_Robbery_Data_Report.pdf)
+- [Toronto Robbery Analysis Presentation](./Toronto_Robbery_Analysis_Presentation.pdf)
+- Tableau workbook
 
 ## Key Skills Demonstrated
 
-**Data Analysis | Data Cleaning | Data Validation | SAS | Tableau | Excel | Data Visualization | Trend Analysis | Forecasting | Business Insights**
+- Data Cleaning & Preparation
+- Exploratory Data Analysis
+- Statistical Analysis
+- Data Visualization
+- Dashboard Development
+- Trend Analysis
+- Business Reporting
+- Data Storytelling
